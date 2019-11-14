@@ -7,9 +7,9 @@ end
 
 
 
-def not_safe?(speed)
-	
-end
+def not_safe? = "100mph"
+  speed > 90mph ? "safe" : "not safe"
+	end
 	
 
 
